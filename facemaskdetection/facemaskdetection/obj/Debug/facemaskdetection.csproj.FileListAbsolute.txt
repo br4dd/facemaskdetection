@@ -1,0 +1,11 @@
+C:\Users\gilma\source\repos\facemaskdetection\facemaskdetection\facemaskdetection\bin\Debug\facemaskdetection.exe.config
+C:\Users\gilma\source\repos\facemaskdetection\facemaskdetection\facemaskdetection\bin\Debug\facemaskdetection.exe
+C:\Users\gilma\source\repos\facemaskdetection\facemaskdetection\facemaskdetection\bin\Debug\facemaskdetection.pdb
+C:\Users\gilma\source\repos\facemaskdetection\facemaskdetection\facemaskdetection\obj\Debug\facemaskdetection.csproj.AssemblyReference.cache
+C:\Users\gilma\source\repos\facemaskdetection\facemaskdetection\facemaskdetection\obj\Debug\facemaskdetection.csproj.SuggestedBindingRedirects.cache
+C:\Users\gilma\source\repos\facemaskdetection\facemaskdetection\facemaskdetection\obj\Debug\facemaskdetection.Form1.resources
+C:\Users\gilma\source\repos\facemaskdetection\facemaskdetection\facemaskdetection\obj\Debug\facemaskdetection.Properties.Resources.resources
+C:\Users\gilma\source\repos\facemaskdetection\facemaskdetection\facemaskdetection\obj\Debug\facemaskdetection.csproj.GenerateResource.cache
+C:\Users\gilma\source\repos\facemaskdetection\facemaskdetection\facemaskdetection\obj\Debug\facemaskdetection.csproj.CoreCompileInputs.cache
+C:\Users\gilma\source\repos\facemaskdetection\facemaskdetection\facemaskdetection\obj\Debug\facemaskdetection.exe
+C:\Users\gilma\source\repos\facemaskdetection\facemaskdetection\facemaskdetection\obj\Debug\facemaskdetection.pdb
