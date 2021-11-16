@@ -46,7 +46,7 @@
             this.topborder.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(137)))), ((int)(((byte)(213)))), ((int)(((byte)(194)))));
             this.topborder.Location = new System.Drawing.Point(0, 0);
             this.topborder.Name = "topborder";
-            this.topborder.Size = new System.Drawing.Size(1112, 53);
+            this.topborder.Size = new System.Drawing.Size(1112, 43);
             this.topborder.TabIndex = 0;
             // 
             // bottomborder
@@ -62,6 +62,7 @@
             // 
             this.poweredbytxt.AutoSize = true;
             this.poweredbytxt.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.poweredbytxt.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(35)))), ((int)(((byte)(35)))));
             this.poweredbytxt.Location = new System.Drawing.Point(455, 12);
             this.poweredbytxt.Name = "poweredbytxt";
             this.poweredbytxt.Size = new System.Drawing.Size(199, 16);
@@ -71,18 +72,19 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(143)))), ((int)(((byte)(216)))), ((int)(((byte)(198)))));
-            this.panel1.Location = new System.Drawing.Point(497, 144);
+            this.panel1.Location = new System.Drawing.Point(497, 124);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(3, 324);
+            this.panel1.Size = new System.Drawing.Size(2, 324);
             this.panel1.TabIndex = 2;
             // 
             // launchbtn
             // 
             this.launchbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(27)))), ((int)(((byte)(185)))), ((int)(((byte)(146)))));
+            this.launchbtn.FlatAppearance.BorderSize = 0;
             this.launchbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.launchbtn.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.launchbtn.ForeColor = System.Drawing.Color.White;
-            this.launchbtn.Location = new System.Drawing.Point(563, 197);
+            this.launchbtn.Location = new System.Drawing.Point(563, 177);
             this.launchbtn.Name = "launchbtn";
             this.launchbtn.Size = new System.Drawing.Size(214, 38);
             this.launchbtn.TabIndex = 3;
@@ -92,10 +94,11 @@
             // recordsbtn
             // 
             this.recordsbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(27)))), ((int)(((byte)(185)))), ((int)(((byte)(146)))));
+            this.recordsbtn.FlatAppearance.BorderSize = 0;
             this.recordsbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.recordsbtn.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.recordsbtn.ForeColor = System.Drawing.Color.White;
-            this.recordsbtn.Location = new System.Drawing.Point(828, 197);
+            this.recordsbtn.Location = new System.Drawing.Point(828, 177);
             this.recordsbtn.Name = "recordsbtn";
             this.recordsbtn.Size = new System.Drawing.Size(214, 38);
             this.recordsbtn.TabIndex = 4;
@@ -105,10 +108,11 @@
             // registerbtn
             // 
             this.registerbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(27)))), ((int)(((byte)(185)))), ((int)(((byte)(146)))));
+            this.registerbtn.FlatAppearance.BorderSize = 0;
             this.registerbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.registerbtn.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.registerbtn.ForeColor = System.Drawing.Color.White;
-            this.registerbtn.Location = new System.Drawing.Point(563, 269);
+            this.registerbtn.Location = new System.Drawing.Point(563, 249);
             this.registerbtn.Name = "registerbtn";
             this.registerbtn.Size = new System.Drawing.Size(214, 38);
             this.registerbtn.TabIndex = 5;
@@ -118,10 +122,11 @@
             // logsbtn
             // 
             this.logsbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(27)))), ((int)(((byte)(185)))), ((int)(((byte)(146)))));
+            this.logsbtn.FlatAppearance.BorderSize = 0;
             this.logsbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.logsbtn.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.logsbtn.ForeColor = System.Drawing.Color.White;
-            this.logsbtn.Location = new System.Drawing.Point(828, 269);
+            this.logsbtn.Location = new System.Drawing.Point(828, 249);
             this.logsbtn.Name = "logsbtn";
             this.logsbtn.Size = new System.Drawing.Size(214, 38);
             this.logsbtn.TabIndex = 6;
@@ -131,10 +136,11 @@
             // getstartedbtn
             // 
             this.getstartedbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(113)))), ((int)(((byte)(93)))));
+            this.getstartedbtn.FlatAppearance.BorderSize = 0;
             this.getstartedbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.getstartedbtn.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.getstartedbtn.ForeColor = System.Drawing.Color.White;
-            this.getstartedbtn.Location = new System.Drawing.Point(563, 360);
+            this.getstartedbtn.Location = new System.Drawing.Point(563, 340);
             this.getstartedbtn.Name = "getstartedbtn";
             this.getstartedbtn.Size = new System.Drawing.Size(479, 38);
             this.getstartedbtn.TabIndex = 7;
@@ -144,8 +150,10 @@
             // taglinetxt
             // 
             this.taglinetxt.AutoSize = true;
+            this.taglinetxt.BackColor = System.Drawing.Color.Transparent;
             this.taglinetxt.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.taglinetxt.Location = new System.Drawing.Point(164, 348);
+            this.taglinetxt.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(43)))), ((int)(((byte)(41)))), ((int)(((byte)(41)))));
+            this.taglinetxt.Location = new System.Drawing.Point(164, 328);
             this.taglinetxt.Name = "taglinetxt";
             this.taglinetxt.Size = new System.Drawing.Size(170, 50);
             this.taglinetxt.TabIndex = 8;
@@ -168,12 +176,11 @@
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.bottomborder);
             this.Controls.Add(this.topborder);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
             this.bottomborder.ResumeLayout(false);
             this.bottomborder.PerformLayout();
             this.ResumeLayout(false);
