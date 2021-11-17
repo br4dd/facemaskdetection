@@ -88,8 +88,9 @@
             this.launchbtn.Name = "launchbtn";
             this.launchbtn.Size = new System.Drawing.Size(214, 38);
             this.launchbtn.TabIndex = 3;
-            this.launchbtn.Text = "LAUNCH";
+            this.launchbtn.Text = "LAUNCH HELLO!";
             this.launchbtn.UseVisualStyleBackColor = false;
+            this.launchbtn.Click += new System.EventHandler(this.launchbtn_Click);
             // 
             // recordsbtn
             // 

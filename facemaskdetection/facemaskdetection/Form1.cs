@@ -30,5 +30,10 @@ namespace facemaskdetection
                 e.Graphics.FillRectangle(brush, this.ClientRectangle);
             }
         }
+
+        private void launchbtn_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

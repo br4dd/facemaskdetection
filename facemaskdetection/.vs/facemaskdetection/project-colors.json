@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9eaab1ac-b919-4dc1-9efb-d7f6fafe99f5": {
+      "ProjectGuid": "9eaab1ac-b919-4dc1-9efb-d7f6fafe99f5",
+      "DisplayName": "facemaskdetection",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
